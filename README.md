@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChVt3658to0EZO04Tn06aAw)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofelix17/)
 
-![GustavoTecblog GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoTecblog&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia a dia
 <div style="display: inline-block"><br>
