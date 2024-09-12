@@ -16,10 +16,3 @@
 </div>
 
 Apaixonado por tecnologia e educação, ministro aulas para o estado sobre criação de sites, visando ajudar quem não tem condições de pagar ou ter um equipamento apropriado.
-
-### Alguns dos meus videos:
-
-- [Aprenda OverFlow e sua propiedades](https://www.youtube.com/watch?v=1YTJQRwPAa0&t=176s)<br>
-- [Menu hamburguer - finalização do site](https://www.youtube.com/watch?v=_tT1VvH6jhc&t=32s)<br>
-- [Galeria de fotos - Responsiva](https://www.youtube.com/watch?v=hHjwaQnkYKc&t=865s)<br>
-- [Dominio gratuito para o seu web site](https://www.youtube.com/watch?v=S9EGOpUgvkQ)<br>
