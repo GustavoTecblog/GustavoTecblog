@@ -14,5 +14,3 @@
  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><br>
 
 </div>
-
-Apaixonado por tecnologia e educação, ministro aulas para o estado sobre criação de sites, visando ajudar quem não tem condições de pagar ou ter um equipamento apropriado.
