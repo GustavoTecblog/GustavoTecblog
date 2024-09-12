@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Gustavo Felix👋
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blog-do-felix.netlify.app/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChVt3658to0EZO04Tn06aAw)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofelix17/)
 
 ![Gustavo Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoTecblog&show_icons=true&theme=radical)
